@@ -1,38 +1,50 @@
-<h1 align="center">Привет, я Weirdskulll 👋</h1>
+<h1 align="center">привет 👋</h1>
 
 <p align="center">
-  Делаю небольшие программы для Windows на C++ и Qt.<br>
-  <i>I build small Windows tools in C++ and Qt.</i>
+  я <b>Weirdskulll</b> — разработчик<br>
+  <sub>(по крайней мере так написано в моём профиле)</sub>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-17-00599C?logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Qt-6-41CD52?logo=qt&logoColor=white" alt="Qt">
-  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/WinAPI-0078D4?logo=windows&logoColor=white" alt="WinAPI">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
+<br>
 
----
+## ☕ обо мне
 
-## 🎨 Проект: ContourBot
+Я из тех людей, которые с удовольствием тратят время и силы на разные интересные проекты:
+сделал штуку, порадовался, что она вообще запустилась, и забыл кому-нибудь показать.
 
-Бот, который сам рисует мышкой в Paint: обводит картинку, штрихует тени и раскрашивает по цветам.
+На GitHub я почти ничего не выкладывал. Если честно, сначала вообще не хотел сюда лезть:
+казалось, что это какое-то серьёзное место для серьёзных людей. Но вместе с Claude всё-таки залез,
+осваиваюсь и стараюсь ничего не сломать. Если что-то сломается, это не баг, это «фича, которую я ещё не придумал».
+
+С людьми общаюсь тоже, просто у меня это получается чуть хуже, чем с компилятором. Но я стараюсь.
+
+<br>
+
+## 🧰 чем пользуюсь
+
+| что | как у нас с ним |
+|:---|:---|
+| **C / C++** | тут я дома. почти всё, что лежит здесь, родом оттуда |
+| **Rust** | только начал. мы пока присматриваемся друг к другу, а borrow checker присматривается ко мне |
+| Python · JavaScript · C# · Java | знакомы, но не близко: читаю, запускаю, иногда даже понимаю, что написал |
+
+<br>
+
+## 🎨 что можно показать
+
+**[ContourBot](https://github.com/Weirdskulll/Conturbot)** — бот, который сам рисует мышкой в Paint: обводит картинку, штрихует тени и раскрашивает по цветам.
+Да, это игрушка. Да, она работает. Сам до сих пор немного удивлён.
 
 <p align="center">
   <a href="https://github.com/Weirdskulll/Conturbot">
-    <img src="https://raw.githubusercontent.com/Weirdskulll/Conturbot/main/docs/screenshot.png" width="640" alt="ContourBot">
+    <img src="https://raw.githubusercontent.com/Weirdskulll/Conturbot/main/docs/screenshot.png" width="520" alt="ContourBot">
   </a>
 </p>
 
-- Находит контуры, штрихует тени, красит область за областью через палитру Paint
-- Сам переключается на нужное окно и привязывает область к нему
-- Готовая сборка для Windows (x64) собирается через GitHub Actions
+[скачать для Windows](https://github.com/Weirdskulll/Conturbot/releases/latest) · [исходники](https://github.com/Weirdskulll/Conturbot)
 
-👉 [Репозиторий](https://github.com/Weirdskulll/Conturbot) · [Скачать релиз](https://github.com/Weirdskulll/Conturbot/releases/latest)
+<br>
 
----
-
-## 🛠 Стек
-
-**Язык:** C++17 · **Интерфейс:** Qt 6 Widgets · **Сборка:** CMake · **Система:** WinAPI · **CI/CD:** GitHub Actions
+<p align="center">
+  <sub>заглядывайте почаще — тут обязательно появится что-нибудь ещё 🌱</sub>
+</p>
