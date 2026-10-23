@@ -1,7 +1,7 @@
 <h1 align="center">привет 👋</h1>
 
 <p align="center">
-  я <b>Weirdskulll</b> — разработчик<br>
+  я <b>VK</b> — разработчик<br>
   <sub>(по крайней мере так написано в моём профиле)</sub>
 </p>
 
